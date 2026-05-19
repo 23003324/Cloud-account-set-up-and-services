@@ -34,7 +34,7 @@ Review Microsoft Azure Agreement and Privacy Statement.
 
 Click Sign Up to complete registration.
 
-Step 6: Access Azure Portal
+## Step 6: Access Azure Portal
 Go to https://portal.azure.com .
 
 Sign in with your Microsoft credentials.
