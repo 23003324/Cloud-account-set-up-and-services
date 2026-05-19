@@ -1,4 +1,4 @@
-## EX NO: Cloud-account-set-up-and-services
+## EX NO: 1 Cloud-account-set-up-and-services
 ### Name: HARITHA RAMESH
 
 ### Reg no: 212223100011
